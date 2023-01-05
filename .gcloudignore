@@ -1,0 +1,5 @@
+.git
+*.md
+.gcloudignore
+
+node_modules/
